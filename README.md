@@ -1,5 +1,3 @@
-<h1 align="left">Mi readme</h1>
-
 <p align="left">Mi nombre es Alejandro Bernal Real y soy estudiante del instituto I.E.S. Torre del Rey de Pilas, Sevilla</p>
 
 <h2 align="left">Sobre mi</h2>
